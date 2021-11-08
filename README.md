@@ -7,7 +7,7 @@ Although, I'm a novice, but I love learning new technology and doing the project
 
 ## 🏆 Awards
 **The Thirteenth TCS Thesis Award** - Excellent Paper Award
-
+![image](photo_TCS.jpg)
 <!--
 **wu0727/wu0727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
