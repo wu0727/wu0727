@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="hello.gif" alt="animated" />
-</p>
+
 
 ## 😄 Bryan #wu0727
 👋 Hi, I'm Bryan!<br> 
