@@ -2,7 +2,8 @@
 <p align="center">
   <img src="introdution.gif" alt="animated" />
 </p>
-## 😄 Bryan #wu0727
+
+## 😄 Bryan #wu0727 <br> 
 👋 Hi, I'm Bryan!<br> 
 📫 I come from Taiwan.<br>
 📚 I hold a master's degree in Information Management at NUU.<br>
